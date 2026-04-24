@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# OS X
+.DS_Store
+
+# Node.js
+node_modules/
+.next/
+out/
+build/
